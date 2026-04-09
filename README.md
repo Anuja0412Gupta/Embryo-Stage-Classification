@@ -113,7 +113,7 @@ L_total = λ_ce × L_focal_weighted  +  λ_ord × L_ordinal
 
 ---
 
-## 📊Output
+## Output
 
 - Per-model classification report (precision, recall, F1 per stage)
 - Confusion matrices
